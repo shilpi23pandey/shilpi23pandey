@@ -3,8 +3,8 @@
 
 #### About me :coffee:	:computer:	:keyboard:	:ledger:	
 
-- Software developer in making :nerd_face: *[99% complete]* .
-- I speak Python, Java, C++ and JavaScript. 
+- Software developer 
+- I speak fluent Python, Java, C++ and JavaScript. 
 - All about learning and building cool stuff.
 
 ##### Connect on [Linkedin](https://www.linkedin.com/in/shilpi-pandey-7a4979114/) or [drop a mail](shilpi23pandey@gmail.com)
